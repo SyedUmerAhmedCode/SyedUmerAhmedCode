@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @SyedUmerAhmedCode.
 - 👀 I’m interested in improving my knowledge of not only programming language but alos to learn about architectures and how things work together.
 - 🌱 I’m currently learning Spring along with Angular(planned).
-- 💞️ I’m looking to collaborate on ... Right now, I try to learn on my own as I am branching out into new technologies (atleast for me) 
-but if you have cool ideas or want to collaborate on a project, contact me.
+- 💞️ I’m looking to collaborate on ... Right now, I am trying to learn on my own as I am branching out into new technologies (atleast for me) 
+but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
 - 📫 How to reach me? At syed.umer.ahmed.code@gmail.com
 
 <!---
