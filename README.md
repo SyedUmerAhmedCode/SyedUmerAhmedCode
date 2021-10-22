@@ -11,4 +11,4 @@ SyedUmerAhmedCode/SyedUmerAhmedCode is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Overview of my stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedumerahmedcode&theme=default) 
+![Overview of my stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedumerahmedcode&theme=github_dark) 
