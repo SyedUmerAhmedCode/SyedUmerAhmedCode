@@ -10,3 +10,5 @@ but if you have cool ideas or want to collaborate on a project, please feel free
 SyedUmerAhmedCode/SyedUmerAhmedCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Overview of my stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedumerahmedcode&theme=default) 
