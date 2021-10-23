@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!---
-Sources:::::https://github-profile-summary-cards.vercel.app/demo.html  and   https://github.com/vn7n24fzkq/github-profile-summary-cards-example
+Sources:::::https://github-profile-summary-cards.vercel.app/demo.html  and   https://github.com/vn7n24fzkq/github-profile-summary-cards-example  and   https://www.freecodecamp.org/news/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2/
 --->
 
   
