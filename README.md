@@ -4,7 +4,13 @@
 - 🌱 I’m currently learning Spring along with Angular(planned).
 - 💞️ I’m looking to collaborate on ... Well, right now, I am trying to learn on my own as I am branching out into new technologies (atleast for me) 
 but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
-- 📫 How to reach me? At [github specific gmail account](mailto:syedumerahmedcode@gmail.com?subject=[GitHub]%20Hello%20from%20Github). Additionally, you can reach me via [Linkedin](https://www.linkedin.com/in/syed-umer-ahmed-a346a746/) or via [Xing](https://www.xing.com/profile/SyedUmer_Ahmed/cv).
+
+
+
+
+
+
+- 📫 How to reach me? Feel free to get in touch with me via [gmail](mailto:syedumerahmedcode@gmail.com?subject=[GitHub]%20Hello%20from%20Github). Additionally, you can reach me via [Linkedin](https://www.linkedin.com/in/syed-umer-ahmed-a346a746/) or via [Xing](https://www.xing.com/profile/SyedUmer_Ahmed/cv).
 
 <!---
 SyedUmerAhmedCode/SyedUmerAhmedCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
