@@ -1,6 +1,7 @@
 # Hi there
 - 👋 Hi, I’m @SyedUmerAhmedCode.
 - 👀 I’m interested in improving my knowledge of not only programming language but also to learn about architectures and how things work together.
+- - To have a quick look at all my repositories, please run the following query: https://api.github.com/users/syedumerahmedcode/repos
 - 🌱 I’m currently learning Javascript and software engineering concepts such design patterns, SOLID etc.
 - 💞️ I’m looking to collaborate on ... Well, right now, I am trying to learn on my own as I am branching out into new technologies (atleast for me) 
 but if you have cool ideas or want to collaborate on a project, please feel free to contact me.
