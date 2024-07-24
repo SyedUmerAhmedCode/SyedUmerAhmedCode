@@ -11,7 +11,7 @@ but if you have cool ideas or want to collaborate on a project, please feel free
 
 
 
-- 📫 How to reach me? Feel free to get in touch with me via [gmail](mailto:syedumerahmedcode@gmail.com?subject=[GitHub]%20Hello%20from%20Github). Additionally, you can reach me via [Linkedin](https://www.linkedin.com/in/syed-umer-ahmed-a346a746/) or via [Xing](https://www.xing.com/profile/SyedUmer_Ahmed/cv).
+- 📫 How to reach me? Feel free to get in touch with me via [gmail](mailto:syedumerahmedcode@gmail.com?subject=[GitHub]%20Hello%20from%20Github). 
 
 <!---
 SyedUmerAhmedCode/SyedUmerAhmedCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
